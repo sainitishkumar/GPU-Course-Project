@@ -1,3 +1,6 @@
+Description:
+	Making ise of the cores in GPU to parallelize the computation of independant tasks, resulting to improve performance of the denoising algorithm
+
 Run as:
 	1. make
 	2.  !time ./cpu <input_img> <niter> <gamma> <method> <ctang?> <output_path>
