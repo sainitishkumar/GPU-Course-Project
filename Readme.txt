@@ -1,5 +1,5 @@
-Description:
-	Making ise of the cores in GPU to parallelize the computation of independant tasks, resulting to improve performance of the denoising algorithm
+Description: CUDA based image denoising
+	Making use of the cores in GPU to parallelize the computation of independant tasks, resulting in improved performance of the denoising algorithm.
 
 Run as:
 	1. make
